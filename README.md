@@ -28,7 +28,3 @@ Contribuições são bem-vindas! Se você encontrar algum problema em um dos meu
 ## Agradecimentos
 
 Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou sugestão.
-
----
-
-Você pode personalizar este README com suas próprias informações e projetos. Se precisar de alguma ajuda adicional, estou aqui para ajudar!
