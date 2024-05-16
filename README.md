@@ -1,7 +1,3 @@
-Claro! Aqui está um exemplo de README para o perfil do GitHub:
-
----
-
 # Olá, eu sou Larissa Paiva! 👋
 
 Bem-vindo ao meu perfil do GitHub. Eu sou estudante de tecnologia e estou sempre buscando aprender e compartilhar conhecimento. Aqui você encontrará projetos e códigos que estou trabalhando ou que já desenvolvi.
