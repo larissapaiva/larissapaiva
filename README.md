@@ -1,30 +1,32 @@
 # Olá, eu sou Larissa Paiva! 👋
 
-Bem-vindo ao meu perfil do GitHub. Eu sou estudante de tecnologia e estou sempre buscando aprender e compartilhar conhecimento. Aqui você encontrará projetos e códigos que estou trabalhando ou que já desenvolvi.
+Bem-vindo ao meu perfil do GitHub. Sou formada em Análise e Desenvolvimento de Sistemas pela Faeterj-Rio e uma entusiasta da tecnologia. Aqui você encontrará projetos e códigos que estou trabalhando ou que já desenvolvi.
 
 ## Sobre Mim
 
-- 🎓 Estudante de Tecnologia da Informação na Faeterj-Rio.
+- 🎓 Análise e Desenvolvimento de Sistemas pela Faeterj-Rio.
 - 💻 Apaixonada por programação e desenvolvimento web.
-- 🌱 Aprendendo constantemente novas tecnologias e habilidades.
+- 🌱 Sempre em busca de novos desafios e tecnologias para aprimorar minhas habilidades.
 
-## Principais Linguagens e Ferramentas
+## 🛠️ Habilidades
 
-- HTML/CSS/JavaScript
-- PHP
-- MySQL
-- Git/GitHub
-- Python
+- **Front-End**: HTML, CSS, JavaScript
+- **Back-End**: PHP, Node.js, Python
+- **Bancos de Dados**: MySQL, SQLite
+- **Linguagens de Script**: Python
 
-## Como Entrar em Contato
+## 🚀 O que estou aprendendo
+
+- TypeScript para desenvolvimento JavaScript mais seguro e escalável
+- Desenvolvimento Mobile com React Native
+- Técnicas de CI/CD para entrega contínua
+
+## Contato
 
 - 📫 Você pode me contatar por e-mail: ps.larissapaiva@gmail.com
 - 🔗 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/larissa-paiva-b6b972213/)
 
-## Contribuição
+## 💡 Vamos Colaborar!
 
-Contribuições são bem-vindas! Se você encontrar algum problema em um dos meus projetos ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
+Estou sempre aberta a novas ideias e colaborações. Sinta-se à vontade para entrar em contato para discutir projetos, trocar conhecimentos ou apenas bater um papo sobre tecnologia.
 
-## Agradecimentos
-
-Obrigado por visitar o meu perfil! Sinta-se à vontade para explorar meus repositórios e entrar em contato se tiver alguma dúvida ou sugestão.
