@@ -11,14 +11,14 @@ Bem-vindo ao meu perfil do GitHub. Sou formada em Análise e Desenvolvimento de 
 ## 🛠️ Habilidades
 
 - **Front-End**: HTML, CSS, JavaScript
-- **Back-End**: PHP, Node.js, Python
-- **Bancos de Dados**: MySQL, SQLite
+- **Back-End**: PHP, Node.js
+- **Bancos de Dados**: Bancos de dados relacionais - BDR
 - **Linguagens de Script**: Python
 
 ## 🚀 O que estou aprendendo
 
 - TypeScript para desenvolvimento JavaScript mais seguro e escalável
-- Desenvolvimento Mobile com React Native
+- Desenvolvimento Web e Mobile com React e React Native
 - Técnicas de CI/CD para entrega contínua
 
 ## Contato
